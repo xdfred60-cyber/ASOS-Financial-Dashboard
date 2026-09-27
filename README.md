@@ -1,7 +1,9 @@
 # ASOS Financial Analysis Dashboard
 
 An interactive financial analysis tool analysing ASOS plc's FY2024 and FY2025 financial performance using Python, Pandas and Streamlit.
+## Dashboard Preview
 
+![ASOS Financial Dashboard](asos-dashboard.png)
 ## Project Overview
 
 This project was built to apply financial analysis concepts in a practical Python-based application.
